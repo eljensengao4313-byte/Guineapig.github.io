@@ -7,8 +7,9 @@
 
 ## Horizon
 *2026*
-
-![Horizon](Horizon_2026.JPG)
+<div align="center">
+  <img src="Horizon_2026.JPG" width="400">
+</div>
 
 ## Hydrangeas
 *2026*
