@@ -1,63 +1,61 @@
 # My Watercolor Artwork
 
-## Mountain
-*March 2026*
-
-![Mountain](Mountain_Mar2026.JPG)
+## Mountain （12” x 16”）
+*March 2026*  
+<br>
+<img src="Mountain_Mar2026.JPG" width="500">
 
 ## Horizon
-*2026*
-<div align="center">
-  <img src="Horizon_2026.JPG" width="400">
-</div>
+*2026*  
+<br>
+<img src="Horizon_2026.JPG" width="500">
 
 ## Hydrangeas
-*2026*
-<div align="center">
-  <img src="Hydrangeas_2026.JPG" width="200">
-</div>
+*2026*  
+<br>
+<img src="Hydrangeas_2026.JPG" width="250">
 
 ## Greens
-*February 2026*
-
-![Greens](Greens_Feb2026.jpg)
+*February 2026*  
+<br>
+<img src="Greens_Feb2026.jpg" width="500">
 
 ## Field II
-*February 2026*
+*February 2026*  
+<br>
+<img src="Field2_Feb2026.JPG" width="500">
 
-![Field II](Field2_Feb2026.JPG)
+## Deep Green （12” x 16”）
+*February 2026*  
+<br>
+<img src="Deepgreen_Feb2026.jpg" width="500">
 
-## Deep Green
-*February 2026*
+## Greens（12” x 16”）
+*January 2026*  
+<br>
+<img src="Greens_Jan2026.jpg" width="500">
 
-![Deep Green](Deepgreen_Feb2026.jpg)
-
-## Greens
-*January 2026*
-
-![Greens](Greens_Jan2026.jpg)
-
-## Winter
-*January 2026*
-
-![Winter](Winter_Jan2026.JPG)
+## Winter（12” x 16”）
+*January 2026*  
+<br>
+<img src="Winter_Jan2026.JPG" width="500">
 
 ## New Year
-*2025*
+*2025*  
+<br>
+<img src="Newyear_2025.JPG" width="500">
 
-![New Year](Newyear_2025.JPG)
-
-## Road
-*2025*
-
-![Road](Road_2025.jpg)
+## Road（12” x 16”）
+*2025*  
+<br>
+<img src="Road_2025.jpg" width="500">
 
 ## Hydrangeas
-*2025*
-
-![Hydrangeas](Hydrangeas_2025.JPG)
+*2025*  
+<br>
+<img src="Hydrangeas_2025.JPG" width="500">
 
 ## Snow
-*December 2025*
-
-![Snow](Snow_Dec2025.jpg)
+*December 2025*  
+<br>
+<img src="Snow_Dec2025.jpg" width="500">
