@@ -10,7 +10,7 @@
 <br>
 <img src="Horizon_2026.JPG" width="500">
 
-## Hydrangeas
+## Hydrangeas II
 *2026*  
 <br>
 <img src="Hydrangeas_2026.JPG" width="250">
@@ -39,6 +39,11 @@
 *January 2026*  
 <br>
 <img src="Winter_Jan2026.JPG" width="500">
+
+## Waterside（12” x 16”）
+*Dec 2025*  
+<br>
+<img src="Waterside_Dec2025.jpg" width="500">
 
 ## New Year
 *2025*  
